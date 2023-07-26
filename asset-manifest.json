@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mohit5Khandelwal/Expense_Tracker.git/static/css/main.3461db24.css",
+    "main.js": "/Mohit5Khandelwal/Expense_Tracker.git/static/js/main.b4a72fb2.js",
+    "index.html": "/Mohit5Khandelwal/Expense_Tracker.git/index.html",
+    "main.3461db24.css.map": "/Mohit5Khandelwal/Expense_Tracker.git/static/css/main.3461db24.css.map",
+    "main.b4a72fb2.js.map": "/Mohit5Khandelwal/Expense_Tracker.git/static/js/main.b4a72fb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3461db24.css",
+    "static/js/main.b4a72fb2.js"
+  ]
+}
